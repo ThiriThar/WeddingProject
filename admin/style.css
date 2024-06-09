@@ -1,0 +1,31 @@
+body{
+    background-color: #281542 !important;
+}
+.container{
+    padding-top: 40px;
+}
+.left-login {
+    width: 50%;
+    height: inherit;
+    float: left;
+    box-sizing: border-box;
+}
+.right-login {
+    width: 50%;
+    height: inherit;
+    float: right;
+    box-sizing: border-box;
+}
+.left-login img {
+    width: 100%;
+    height: 480px;
+    object-fit: cover;
+}
+button.btn.btn-cus{
+    background-color: #ff6780;
+    color: white;
+}
+button.btn.btn-cus:hover{
+    background-color: #fe92e7;
+    color: white;
+}
